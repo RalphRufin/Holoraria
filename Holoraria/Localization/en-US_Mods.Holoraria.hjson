@@ -1,0 +1,40 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	GuraTrident: {
+		DisplayName: Gura Trident
+		Tooltip: ""
+	}
+
+	GuraChestplate: {
+		DisplayName: Gura Chestplate
+		Tooltip: ""
+	}
+
+	GuraHelmet: {
+		DisplayName: Gura Helmet
+		Tooltip: ""
+	}
+
+	GuraLeggings: {
+		DisplayName: Gura Leggings
+		Tooltip: ""
+	}
+
+	Bloop: {
+		DisplayName: Bloop
+		Tooltip: ""
+	}
+
+	AmeBullet: {
+		DisplayName: Ame Bullet
+		Tooltip: ""
+	}
+
+	AmeGun: {
+		DisplayName: Ame Gun
+		Tooltip: ""
+	}
+}
+
+Projectiles.AmeBulletProjectile.DisplayName: Ame Bullet Projectile

@@ -1,0 +1,3 @@
+displayName = Hololive Terraria Mod
+author = ArdRetPH
+version = 0.1
