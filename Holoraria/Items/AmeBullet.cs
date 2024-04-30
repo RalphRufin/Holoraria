@@ -11,7 +11,7 @@ namespace Holoraria.Items
 	{
 		public override void SetDefaults() 
 		{
-			Item.damage = 5;
+			Item.damage = 6;
 			Item.DamageType = DamageClass.Ranged;
 			Item.width = 40;
 			Item.height = 40;

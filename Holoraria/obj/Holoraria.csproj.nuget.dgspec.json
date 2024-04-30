@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ralph\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Holoraria\\Holoraria.csproj": {}
+    "C:\\Users\\Ralph\\Downloads\\Ver14\\Holoraria\\Holoraria\\Holoraria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ralph\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Holoraria\\Holoraria.csproj": {
+    "C:\\Users\\Ralph\\Downloads\\Ver14\\Holoraria\\Holoraria\\Holoraria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ralph\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Holoraria\\Holoraria.csproj",
+        "projectUniqueName": "C:\\Users\\Ralph\\Downloads\\Ver14\\Holoraria\\Holoraria\\Holoraria.csproj",
         "projectName": "Holoraria",
-        "projectPath": "C:\\Users\\Ralph\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Holoraria\\Holoraria.csproj",
+        "projectPath": "C:\\Users\\Ralph\\Downloads\\Ver14\\Holoraria\\Holoraria\\Holoraria.csproj",
         "packagesPath": "C:\\Users\\Ralph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ralph\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Holoraria\\obj\\",
+        "outputPath": "C:\\Users\\Ralph\\Downloads\\Ver14\\Holoraria\\Holoraria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ralph\\AppData\\Roaming\\NuGet\\NuGet.Config"

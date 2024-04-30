@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "53b/I/p4maJNKh5JN39CkUy07Lh+Kd3Dsmy5MalDnb85QK/QKkOUi8kjrfgaGBWIUL4gwAOpA5q8CiFMWargPw==",
+  "dgSpecHash": "jeoLZGvb1zkyJIcZLe1pU+Flya7v69hjWFjNmVBF2n8tLMGC+WpXB5mduQPdPDCttqh7NFJI2XbNEqJUSbpHUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ralph\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Holoraria\\Holoraria.csproj",
+  "projectFilePath": "C:\\Users\\Ralph\\Downloads\\Ver14\\Holoraria\\Holoraria\\Holoraria.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ralph\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
   ],
